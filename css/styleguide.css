@@ -1,0 +1,212 @@
+:root { 
+  --black: #0d0b26;
+  --black-2: #000000;
+  --bon-jour: #e1e1e1;
+  --border: #cfd6dc;
+  --cadet-blue: #abb7c21a;
+  --light-themebackground: #ffffff;
+  --light-themeheading-text: #151924;
+  --light-themesecondary-color: #f47500;
+  --main-2: #495aff;
+  --neutral100: #ffffff;
+  --neutral800: #170f49;
+  --red: #e80000;
+  --royal-blue: #4a3affe6;
+  --royal-blue-2: #495aff1a;
+  --secondary: #abb7c2;
+  --secondary-2: #cfd6dc;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 22px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 28px;
+  --font-size-xxxxxl: 40px;
+ 
+  --font-family-arial-bold: "Arial-Bold", Helvetica;
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-fmababld-bold: "FMAbabld-Bold", Helvetica;
+  --font-family-fmabhaya-regular: "FMAbhaya-Regular", Helvetica;
+  --font-family-fmabhaya-x: "FMAbhaya-x", Helvetica;
+  --font-family-font_awesome_5_free-regular: "Font Awesome 5 Free-Regular", Helvetica;
+  --font-family-georgia-regular: "Georgia-Regular", Helvetica;
+  --font-family-poppins: "Poppins", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.fmabhaya-x-normal-ebony-16px {
+  color: var(--black);
+  font-family: var(--font-family-fmabhaya-x);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fmabhaya-x-normal-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-fmabhaya-x);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-bold-black-18px {
+  color: var(--black-2);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-medium-cadet-blue-16px {
+  color: var(--secondary);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.fmabhaya-regular-normal-black-18px {
+  color: var(--black-2);
+  font-family: var(--font-family-fmabhaya-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fmababld-bold-white-18px {
+  color: var(--light-themebackground);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fmabhaya-regular-normal-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-fmabhaya-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-bold-black-20px {
+  color: var(--black-2);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-medium-white-18px {
+  color: var(--light-themebackground);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.fmababld-bold-black-24px {
+  color: var(--black-2);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fontawesome5free-regular-normal-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-font_awesome_5_free-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fmababld-bold-mirage-40px {
+  color: var(--light-themeheading-text);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.poppins-medium-mirage-14px {
+  color: var(--light-themeheading-text);
+  font-family: var(--font-family-poppins);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.fmababld-bold-black-28px {
+  color: var(--black-2);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.arial-bold-black-24px {
+  color: var(--black-2);
+  font-family: var(--font-family-arial-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.fmababld-bold-red-18px {
+  color: var(--red);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-medium-royal-blue-16px {
+  color: var(--main-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.arial-regular-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-arial-regular);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.fmababld-bold-royal-blue-18px {
+  color: var(--main-2);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-medium-white-16px {
+  color: var(--light-themebackground);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.fmababld-bold-bunting-22px {
+  color: var(--neutral800);
+  font-family: var(--font-family-fmababld-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.georgia-regular-normal-black-16px {
+  color: var(--black-2);
+  font-family: var(--font-family-georgia-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
