@@ -299,7 +299,7 @@
 
 .step-wrapper-1 {
   align-items: flex-start;
-  display: flex;
+  display: flex !important;
   flex: 0 0 auto;
   flex-direction: column;
   gap: 10px;
